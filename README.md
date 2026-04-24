@@ -1,8 +1,19 @@
 <div align="center">
-  <img src="professional_logo.png" alt="Awais Shabbir Logo" width="300"/>
+  <img src="banner.png" alt="Awais Shabbir Banner" width="100%" />
+  <br/><br/>
+  
+  <table border="0" cellpadding="0" cellspacing="0" align="center" style="border-collapse: collapse; border: none;">
+    <tr>
+      <td align="center" width="50%" style="border: none;">
+        <img src="https://raw.githubusercontent.com/AwaisShahbir/Portfolio/main/public/profile.png" alt="Awais Shabbir Profile" width="180" />
+      </td>
+      <td align="center" width="50%" style="border: none;">
+        <img src="https://raw.githubusercontent.com/AwaisShahbir/Portfolio/main/public/professional_logo.png" alt="Awais Shabbir Logo" width="180" />
+      </td>
+    </tr>
+  </table>
+
   <br/>
-  <br/>
-  <img src="profile.png" alt="Awais Shabbir Profile" width="180" style="border-radius: 50%; border: 4px solid #00F0FF; box-shadow: 0 0 20px rgba(0, 240, 255, 0.4);"/>
   
   # Hi there, I'm Awais Shabbir 👋
   
@@ -23,7 +34,7 @@ I am a **Software Engineering student** at Riphah International University, spec
 
 My passion lies in crafting responsive, user-friendly full-stack and mobile applications with premium aesthetics, dynamic animations, and a deep attention to detail.
 
-- 🔭 I’m currently working on **[ShopZone](https://github.com/AwaisShahbir/ShopZone)**, a full-stack Next.js e-commerce platform.
+- 🔭 I’m currently working on my FYP **PashuCare AI**, a comprehensive livestock health management system, and **[ShopZone](https://github.com/AwaisShahbir/ShopZone)**.
 - 🌱 I’m currently learning deeper **AI/ML integration** and **Advanced Animation**.
 - 👯 I’m looking to collaborate on **open-source Full-Stack and Flutter applications**.
 - 🤔 I’m looking for help with **mastering advanced AI algorithms for web integration**.
@@ -43,6 +54,7 @@ My passion lies in crafting responsive, user-friendly full-stack and mobile appl
 **Backend & Database:** 
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=Firebase&logoColor=white)
 
 **Languages:**
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
