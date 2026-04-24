@@ -1,21 +1,12 @@
 <div align="center">
-  <img src="banner.png" alt="Awais Shabbir Banner" width="100%" />
-  <br/><br/>
-  
-  <table border="0" cellpadding="0" cellspacing="0" align="center" style="border-collapse: collapse; border: none;">
-    <tr>
-      <td align="center" width="50%" style="border: none;">
-        <img src="https://raw.githubusercontent.com/AwaisShahbir/Portfolio/main/public/profile.png" alt="Awais Shabbir Profile" width="180" />
-      </td>
-      <td align="center" width="50%" style="border: none;">
-        <img src="https://raw.githubusercontent.com/AwaisShahbir/Portfolio/main/public/professional_logo.png" alt="Awais Shabbir Logo" width="180" />
-      </td>
-    </tr>
-  </table>
+  <img src="https://raw.githubusercontent.com/AwaisShahbir/Portfolio/main/public/professional_logo.png" alt="Awais Shabbir Logo" height="150" style="margin-right: 15px;" />
+  <img src="1745950706262.jpeg" alt="Awais Shabbir Banner" height="150" />
+</div>
 
-  <br/>
-  
-  # Hi there, I'm Awais Shabbir 👋
+<br/>
+<br/>
+
+# Hi there, I'm Awais Shabbir 👋
   
   ### 🌙 Code. Create. Repeat. | 📍 Lahore, Pakistan
   
